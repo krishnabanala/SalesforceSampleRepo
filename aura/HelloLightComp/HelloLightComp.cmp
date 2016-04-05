@@ -1,0 +1,5 @@
+<aura:component implements="force:appHostable" >
+    <div class="RED"><h1>welcome to my first  Component</h1></div>
+    <div class="BLUE"><h3>Hello Light Compoenent</h3></div>
+	
+</aura:component>

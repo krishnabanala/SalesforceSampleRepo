@@ -1,0 +1,16 @@
+<aura:component >
+    <div class="list-group">
+        <a href="#" class="list-group-item active">
+            <h4 class="list-group-item-heading">List group item heading</h4>
+            <p class="list-group-item-text">Sample Text</p> 
+        </a>
+        <a href="#" class="list-group-item"> 
+            <h4 class="list-group-item-heading">List group item heading1</h4>
+            <p class="list-group-item-text">Sample Text2</p>
+        </a>
+        <a href="#" class="list-group-item">
+            <h4 class="list-group-item-heading">List group item heading2</h4>
+            <p class="list-group-item-text">Sample Text3</p>
+        </a>
+    </div>
+</aura:component>
